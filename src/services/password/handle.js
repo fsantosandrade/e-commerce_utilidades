@@ -22,7 +22,9 @@ async function handle(err, result) {
         password += characteres[index]
     }
 
-    console.log(password);
+    console.log("\n");
+    console.log("Sua senha foi criada: " + password);
+    console.log("\n");
 }
 
 export default handle
