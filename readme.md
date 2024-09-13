@@ -14,59 +14,19 @@
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=DIO&message=Education&color=E94D5F&labelColor=202024" alt="DIO Project" />
   <a href="NIVEL"><img  src="https://img.shields.io/static/v1?label=Nivel&message=Basico&color=E94D5F&labelColor=202024" alt="Nivel"></a>
-
 </p>
 
-<!--  -->
-<table align="center">
-<thead>
-  <tr>
-  <h2 align="center">Feito com base no projeto do expert:</h2>
-    <td>
-        <p align="center">Expert</p>
-        <a href="https://github.com/felipeAguiarCode">
-        <img src="https://avatars0.githubusercontent.com/u/37452836?v=3&s=115" alt="@felipeAguiarCode"><br>
-      </a>
-    </td>
-    <td colspan="3">
-    <p>🎉 10y+ em sistemas comerciais com .NET C# e NODE.JS.
-      <br/>
-     🌟 Desenvolvedor fullstack - Coordenador de educação na DIO
-      <br/>
-    👨‍💻 Foco em front-ends SPA com React, Angular e Vue.js
-    </p>
-      <a 
-      href="https://www.linkedin.com/in/felipe-me/" 
-      align="center">
-           <img 
-            align="center" 
-            alt="Material de Apoio" 
-            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-            >
-        </a>
-        <a href="https://www.instagram.com/felipeaguiar.exe/" target="_blank">
-            <img 
-              align="center" 
-              alt="Instagram" 
-              src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-            >
-        </a>
-    </td>
-  </tr>
-</thead>
-</table>
-<!--  -->
+## 👨‍💻 Criador do projeto
+Esta aplicação Node foi criada por [Felipe Santos](https://www.linkedin.com/in/felipe-santos-a377ba300/) partindo dos conhecimentos adquiridos no curso de Node.Js Fundamentals da DIO (link abaixo).
 
-<br/>
-<br/>
 
 ## 💻 Sobre o Projeto
 
-Vamos construir um kit de utilidades para um e-commerce, o projeto deve ser escalável para ter adição de novas features.
+Construímos um kit de utilidades para um e-commerce, o projeto deve ser escalável para ter adição de novas features.
 
 ## 📚 Pré-requisitos de Habilidades e Níveis de Conhecimento
 
-Antes de ingressar neste conteúdo, é necessário possuir conhecimento prévio nas seguintes áreas:
+Conhecimentos utilizados na criação desse projeto:
 
 - Lógica de programação
 - Javascript | Básico
@@ -75,7 +35,7 @@ Antes de ingressar neste conteúdo, é necessário possuir conhecimento prévio 
 - NPM, Packages, Dependencies
 - Variáveis ambiente (.env)
 
-## 🛠️ Habilidades e Sub-habilidades que vamos aprender neste conteúdo
+## 🛠️ Habilidades e Sub-habilidades aprendidas durante a criação desse conteúdo
 
 - Como gerar qrcode com node
 - Como lidar com várias dependências de um projeto
